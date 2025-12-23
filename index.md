@@ -1,5 +1,3 @@
-ADS-Share – Terms of Service
-
 Welcome to ADS-Share, a smart platform by GoodPegg designed to help you add and share items with your customers and collaborate with your dealer friends. These Terms of Service ("Terms") outline your rights and responsibilities when using ADS-Share. By accessing our app and using any of its features, including subscriptions, you agree to be bound by these Terms. Please read them carefully.
 
 1. Subscription Terms
