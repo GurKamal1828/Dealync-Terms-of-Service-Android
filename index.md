@@ -1,9 +1,9 @@
-Welcome to ADS-Share, a smart platform by GoodPegg designed to help you add and share items with your customers and collaborate with your dealer friends. These Terms of Service ("Terms") outline your rights and responsibilities when using ADS-Share. By accessing our app and using any of its features, including subscriptions, you agree to be bound by these Terms. Please read them carefully.
+Welcome to Dealync, a smart platform by GoodPegg designed to help you add and share items with your customers and collaborate with your dealer friends. These Terms of Service ("Terms") outline your rights and responsibilities when using Dealync. By accessing our app and using any of its features, including subscriptions, you agree to be bound by these Terms. Please read them carefully.
 
 1. Subscription Terms
 
 1.1 Subscription Services
-ADS-Share offers an auto-renewable subscription at INR 99 per month.
+Dealync offers an auto-renewable subscription at INR 99 per month.
 Subscribing unlocks the premium feature which allows users to add more than 5 items.
 
 1.2 Billing and Auto-Renewal
@@ -21,20 +21,20 @@ We may update the subscription price. If we do, we will notify you in advance.
 If you do not agree with the new price, you may cancel your subscription before the new billing cycle begins.
 
 2. Use of the Platform
-ADS-Share is intended for use by individuals or businesses to create and distribute items. 
+Dealync is intended for use by individuals or businesses to create and distribute items. 
 By using the app, you confirm that you are at least 18 years old and legally allowed to enter into contracts. 
 If you are using the app on behalf of an organization, you confirm that you have the legal authority to bind that entity to these Terms. 
 You must use the app lawfully and ethically, and agree not to use it to send unlawful, harassing, defamatory, or harmful content.
 
 
 3. Intellectual Property
-All content, designs, and templates within ADS-Share are the intellectual property of GoodPegg. 
+All content, designs, and templates within Dealync are the intellectual property of GoodPegg. 
 You are granted a limited, non-transferable, and non-exclusive license to use the app solely for its intended purpose.
 You may not copy, resell, distribute, or create derivative works from any part of the app or its assets without prior written permission.
 
 4. Modifications to the Platform
 We reserve the right to modify, suspend, or discontinue any part of the app or its services without prior notice.
-ADS-Share is provided on an "as is" and "as available" basis without any warranties.
+Dealync is provided on an "as is" and "as available" basis without any warranties.
 
 5. Privacy Policy Summary
 We just collect or store the user name, business name and phone number on our servers.
@@ -45,7 +45,7 @@ Access to the photo library or device storage is only used to allow you to save 
 6. Indemnification and Limitation of Liability
 You agree to indemnify and hold harmless GoodPegg, its employees, and partners from any legal claims, losses, or damages resulting from:
 Your violation of these Terms,
-Your content shared using ADS-Share,
+Your content shared using Dealync,
 Or any unauthorized use of the app.
 We shall not be liable for:
 Any indirect or consequential damages (e.g., lost revenue, business disruption),
