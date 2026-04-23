@@ -3,8 +3,8 @@ Welcome to Dealync, a smart platform by GoodPegg designed to help you add and sh
 1. Subscription Terms
 
 1.1 Subscription Services
-Dealync offers an auto-renewable subscription at INR 99 per month.
-Subscribing unlocks the premium feature which allows users to add more than 5 items.
+Dealync offers an auto-renewable subscription at INR 269 per month.
+Subscribing unlocks the premium feature which allows users to add more than 3 items.
 
 1.2 Billing and Auto-Renewal
 Payment will be charged to your Google ID account at the time of purchase confirmation.
